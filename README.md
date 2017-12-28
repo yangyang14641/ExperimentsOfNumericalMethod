@@ -24,4 +24,4 @@
 7. BisectionMethod and NewtonMethod: corresponds to Hw7. 
 8. EulerMethod and PredictorCorrectorEulerMethod and RungeKuttaMethod: correspond to Hw8.
 
-### Yang Yang (John) 28/12/2017 21:15 @ Peking University
+### Yang Yang (John) @ Peking University  21:15 28/12/2017
