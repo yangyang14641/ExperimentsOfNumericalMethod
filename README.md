@@ -1,6 +1,6 @@
 # ExperimentsOfNumericalMethod
 ## Experiments of Numerical Method Course in ChongQing University (2013 Spring Term) Using MATLAB
-### This course was given by Prof.Chen (Rong Chen) in College of Energy Engineering in ChongQing University. This course interseted me in 2013 Spring Term, I worked really hard for every experiment that include both mathematical analysis  and computer programming. In that time I know little about Computer Science and Advance Mathematics, As a result I using Word rather than LaTex for Editor and Using MATLAB to program and drawing. So, a young boy named John start his voyage in numerical method and computer science's world.
+### This course was given by Prof.Chen (Rong Chen) in College of Energy Engineering at ChongQing University. This course interseted me in 2013 Spring Term, I worked really hard for every experiment that include both mathematical analysis  and computer programming. In that time I know little about Computer Science and Advance Mathematics, As a result I using Word rather than LaTex for Editor and Using MATLAB to program and drawing. So, a young boy named John start his voyage in numerical method and computer science's world.
 ### GitHub is a place to share, so I decided to share this works and experience with these happy and crazy with exciting time.
 
 ## Contents
